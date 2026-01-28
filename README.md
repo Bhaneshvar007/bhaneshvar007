@@ -1,6 +1,6 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
-<h1 align="center">👋 Hi, I'm Bhaneshvar Kshirsagar </h1>
+<h1 align="center">👋 Hi, I'm Bhaneshvar Kshirsagar</h1>
 <h3 align="center"> .NET Developer | Full Stack Enthusiast | Problem Solver </h3>
 <p>I'm a Software Trainee at Cylsys Software Pvt. Ltd. with <b>1+ year of experience </b> in building
 enterprise-level applications using ASP.NET MVC, .NET Core, SQL Server, and REST APIs </p>
